@@ -129,5 +129,5 @@ python main.py
 ---
 
 <div align="center">
-<sub>Built as a university machine learning project.</sub>
+<sub>Built as a university artificial intelligence  project.</sub>
 </div>
