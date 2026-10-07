@@ -103,8 +103,8 @@ The Decision Tree scored best on the test set, with Logistic Regression and SVM 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/OmarMahmoud-m/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/OmarMahmoud-m/loanStatusPrediction.git
+cd loanStatusPrediction
 
 # 2. Install dependencies
 pip install numpy pandas matplotlib seaborn scikit-learn
